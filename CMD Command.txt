@@ -1,0 +1,4 @@
+cd -- (change directory) -- to navigate across folder -- cd foldername -- cd ../ (to go back in folder)
+
+dir/ls -- to get the list of all directory
+
