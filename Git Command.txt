@@ -1,10 +1,9 @@
-cd -- (change directory) -- to navigate across folder -- cd foldername -- cd ../ (to go back in folder)
+abcd -- version 1.0
+abcd defg -- version 2.0   
 
-dir/ls -- to get the list of all directory
+git -- Main code base ka management tool
+github -- Same git wali functionality WEBSITE ke roop me milegi
 
-cd -- (change directory) -- to navigate across folder -- cd foldername -- cd ../ (to go back in folder)
-
-dir/ls -- to get the list of all directory of current folder
 
 Git Initialize
 		git config --global user.name "some name"
